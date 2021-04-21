@@ -1,32 +1,48 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Ravens",
                 "links": [
+                  {
+                    "name": "Mail",
+                    "url": "https://webmail.migadu.com"
+                  },
                   {
                     "name": "Discord",
                     "url": "https://discord.com"
                   },
                   {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
-                  },
-                  {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "GMeet",
+                    "url": "https://meet.google.com"
                   }
                 ]
               },
               {
-                "category": "Cloud",
+                "category": "Rack",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.com"
+                    "name": "Radarr",
+                    "url": "https://wantguns.lw986.usbx.me/radarr"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
+                    "name": "Sonarr",
+                    "url": "https://wantguns.lw986.usbx.me/sonarr"
+                  },
+                  {
+                    "name": "Deluge",
+                    "url": "https://wantguns.lw986.usbx.me/deluge"
+                  },
+                  {
+                    "name": "Jackett",
+                    "url": "https://wantguns.lw986.usbx.me/jackett"
+                  },
+                  {
+                    "name": "Ombi",
+                    "url": "https://requests.wantguns.dev"
+                  },
+                  {
+                    "name": "Bazarr",
+                    "url": "https://wantguns.lw986.usbx.me/bazarr"
                   },
                   {
                     "name": "Drive",
@@ -35,104 +51,56 @@
                 ]
               },
               {
-                "category": "Design",
+                "category": "DSA/CP",
                 "links": [
                   {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
+                    "name": "Stanford",
+                    "url": "https://www.coursera.org/specializations/algorithms#courses"
                   },
                   {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
+                    "name": "AlgoExpert",
+                    "url": "https://jellyfin.wantguns.dev/web/index.html#!/list.html?parentId=0cbcdf2cbd6fb9b900c405f108f458f5&serverId=665b22a879fc477fa1dc0bd02c4b47e5"
                   },
                   {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
+                    "name": "CodeChef",
+                    "url": "https://codechef.com"
+                  },
+                  {
+                    "name": "CodeForces",
+                    "url": "https://codeforces.com"
+                  },
+                  {
+                    "name": "LeetCode",
+                    "url": "https://leetcode.com"
+                  },
+                  {
+                    "name": "CSES",
+                    "url": "https://cses.fi"
+                  },
+                  {
+                      "name": "CP Algorithms",
+                      "url": "https://cp-algorithms.com"
                   }
                 ]
               },
               {
-                "category": "Dev",
+                "category": "Uni",
                 "links": [
                   {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
+                    "name": "CMU DBMS",
+                    "url": "https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi"
                   },
                   {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
+                    "name": "CS50 AI",
+                    "url": "https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv"
                   },
                   {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
+                    "name": "LMS",
+                    "url": "https://ramanujan-lms.thapar.edu"
                   },
                   {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://www.mymove.com/freshome/"
-                  }
-                ]
-              },
-              {
-                "category": "Media",
-                "links": [
-                  {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
-                  },
-                  {
-                    "name": "YouTube",
-                    "url": "https://youtube.com/feed/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Reading",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
-                  },
-                  {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
-                  }
-                ]
-              },
-              {
-                "category": "Tech",
-                "links": [
-                  {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
-                  },
-                  {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
-                  },
-                  {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "md2pdf",
+                    "url": "https://md2pdf.netlify.app/"
                   }
                 ]
               }
