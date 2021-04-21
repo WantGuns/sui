@@ -1,7 +1,6 @@
 {
     "providers" : [
         {"name":"Duck Duck Go","url":"https://duckduckgo.com/?q=","prefix":"/d"},
-        {"name":"Google","url":"https://google.com/?q=","prefix":"/g"},
         {"name":"Qwant","url":"https://www.qwant.com/?q=","prefix":"/q"}
     ]
 }
