@@ -8,7 +8,7 @@
         {"name":"Github","url":"github.com","icon":"github"},
         {"name":"Gitlab","url":"gitlab.com","icon":"gitlab"},
         {"name":"Cockpit","url":"dash.wantguns.dev","icon":"airplane"},
-        {"name":"Traefik","url":"traefik.wantguns.dev","icon":"traffic-light"},
+        {"name":"Pastebin","url":"bin.wantguns.dev","icon":"delete-restore"},
         {"name":"Nextcloud","url":"cloud.wantguns.dev","icon":"weather-cloudy"},
         {"name":"Hetzner","url":"console.hetzner.cloud","icon":"server"},
         {"name":"USB","url":"cp.ultraseedbox.com/","icon":"seed"}
