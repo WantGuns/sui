@@ -134,6 +134,14 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 });
                 return;
 
+            case 'ayu':
+                setTheme({
+                    'color-background': '#0F1419',
+                    'color-text-acc': '#3E4B59',
+                    'color-text-pri': '#E6E1CF'
+                });
+                return;
+
         }
     })
 }
